@@ -1,5 +1,5 @@
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=l3onrdo&layout=compact&themes=black"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=l3onrdo&layout=compact&theme=dark"/>
 <!--
 **l3onrdo/l3onrdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
